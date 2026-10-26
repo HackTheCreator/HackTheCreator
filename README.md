@@ -5,13 +5,13 @@
  ![Full Stack](https://img.shields.io/badge/Full_Stackㅤ-212121?style=for-the-badge)![Tools](https://img.shields.io/badge/Toolsㅤ-787878?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤIDEㅤㅤㅤ-212121?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-787878?style=for-the-badge)
 
 <a href="https://skillicons.dev">
-  <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,md,ts,java,cpp,cs,bash,spring,dart,kotlin,wasm&perline=4" />
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,npm,md,ts,java,cpp,cs,bash,dart,kotlin,react,wasm&perline=4" />
 </a>
 <a href="https://skillicons.dev">
-  <img height=113 align="top" src="https://skillicons.dev/icons?i=git,github,vercel,firebase,supabase&perline=2" />
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=git,github,vercel,firebase,supabase,discord,spring,flutter&perline=2" />
 </a>
 <a href="https://skillicons.dev">
-  <img height=113 align="top" src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,neovim&perline=2" />
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,androidstudio,codepen,neovim&perline=2" />
 </a>
 <a href="https://skillicons.dev">
   <img height=112 align="top" src="https://skillicons.dev/icons?i=linux,arch,nix,kali,windows&perline=3" />
