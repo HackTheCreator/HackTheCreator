@@ -2,7 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&duration=4000&pause=1000&color=F70000&multiline=true&width=550&height=100&lines=I+love+Linux+ricing+and+depressed+Ubuntu+user;why+are+you+still+here%3F+Your+life+won't+be+spared" alt="Typing SVG" /></a>
 
 ## Skills
- ![Full Stack](https://img.shields.io/badge/-Fullstack?style=for-the-badge&label=Fullstack&labelColor=%23212121&color=%23212121)![Cloud](https://img.shields.io/badge/ㅤㅤCloudㅤㅤㅤ-99ff99?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
+ ![Full Stack](https://img.shields.io/badge/-Fullstack?style=for-the-badge&label=Fullstack&labelColor=%23212121&color=%23212121)
+ ![Tools](https://img.shields.io/badge/-Tools?style=for-the-badge&label=Tools&labelColor=%23787878&color=%23787878)![IDE](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
 
 <a href="https://skillicons.dev">
   <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,md,ts,java,cpp,cs,bash,spring,dart,kotlin&perline=4" />
