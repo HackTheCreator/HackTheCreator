@@ -8,10 +8,10 @@
   <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,nextjs,md,ts,java,cs,bash,spring&perline=4" />
 </a>
 <a href="https://skillicons.dev">
-  <img height=113 align="top" src="https://skillicons.dev/icons?i=aws,mysql,git,github&perline=2" />
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=aws,postgres,git,github&perline=2" />
 </a>
 <a href="https://skillicons.dev">
-  <img height=113 align="top" src="https://skillicons.dev/icons?i=idea,vscode,vim,&perline=2" />
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,neovim,&perline=2" />
 </a>
 <a href="https://skillicons.dev">
   <img height=112 align="top" src="https://skillicons.dev/icons?i=linux,arch,mint,kali,windows&perline=3" />
