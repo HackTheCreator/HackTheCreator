@@ -5,7 +5,7 @@
  ![Full Stack](https://img.shields.io/badge/Full_Stackㅤ-212121?style=for-the-badge)![Tools](https://img.shields.io/badge/Toolsㅤ-787878?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤIDEㅤㅤㅤ-212121?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-787878?style=for-the-badge)
 
 <a href="https://skillicons.dev">
-  <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,md,ts,java,cpp,cs,bash,spring,dart,kotlin&perline=4" />
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,md,ts,java,cpp,cs,bash,spring,dart,kotlin,wasm&perline=4" />
 </a>
 <a href="https://skillicons.dev">
   <img height=113 align="top" src="https://skillicons.dev/icons?i=git,github,vercel,firebase,supabase&perline=2" />
