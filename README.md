@@ -1,2 +1,21 @@
 <img width="920" height="128" alt="ascii-art-text" src="https://github.com/user-attachments/assets/96d4bf2c-75d5-41f0-90ab-a7955b15acb6" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Eagle+Lake&duration=4000&pause=1000&color=F70000&multiline=true&width=550&height=100&lines=I+love+Linux+ricing+and+depressed+Ubuntu+user;why+are+you+still+here%3F+Your+life+won't+be+spared" alt="Typing SVG" /></a>
+
+## Skills
+ ![Full Stack](https://img.shields.io/badge/ㅤBack%20endㅤ-ffff99?style=for-the-badge)![Cloud](https://img.shields.io/badge/ㅤㅤCloudㅤㅤㅤ-99ff99?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
+
+<a href="https://skillicons.dev">
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,nextjs,md,ts,java,cs&perline=4" />
+</a>
+<a href="https://skillicons.dev">
+  <img height=114 align="top" src="https://skillicons.dev/icons?i=java,spring,python,bash&perline=2" />
+</a>
+<a href="https://skillicons.dev">
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=aws,mysql,git,github&perline=2" />
+</a>
+<a href="https://skillicons.dev">
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=idea,vscode,vim,&perline=2" />
+</a>
+<a href="https://skillicons.dev">
+  <img height=112 align="top" src="https://skillicons.dev/icons?i=linux,arch,mint,kali,windows&perline=3" />
+</a>
