@@ -5,10 +5,10 @@
  ![Full Stack](https://img.shields.io/badge/ㅤBack%20endㅤ-ffff99?style=for-the-badge)![Cloud](https://img.shields.io/badge/ㅤㅤCloudㅤㅤㅤ-99ff99?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
 
 <a href="https://skillicons.dev">
-  <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,nextjs,md,ts,java,cpp,cs,bash,spring,dart,kotlin&perline=4" />
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs,md,ts,java,cpp,cs,bash,spring,dart,kotlin&perline=4" />
 </a>
 <a href="https://skillicons.dev">
-  <img height=113 align="top" src="https://skillicons.dev/icons?i=aws,postgres,git,github&perline=2" />
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=git,github,vercel,firebase,supabase&perline=2" />
 </a>
 <a href="https://skillicons.dev">
   <img height=113 align="top" src="https://skillicons.dev/icons?i=idea,vscode,visualstudio,neovim&perline=2" />
